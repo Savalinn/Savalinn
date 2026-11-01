@@ -15,10 +15,10 @@ Came here the long way: C++ and Python developer, ops, DevOps, architect.
 
 **CTF (2026)**
 
-| CTF | Place | Top | Score | Notes |
-|---|---|---|---|---|
-| Huntress CTF | 27 / 1602 | 1.7% | 1885 / 1885 (100%) | all six categories maxed; 56 teams tied on full score, order decided by solve time |
-| Hidden Investigations CTF | 45 / 1119 | 4.02% | n/a | |
+| CTF | Place | Top | Score |
+|---|---|---|---|
+| Huntress CTF | 27 / 1602 | 1.7% | 1885 / 1885 (100%) |
+| Hidden Investigations CTF | 45 / 1119 | 4.02% | n/a |
 
 <sub>Played solo, with AI use permitted by the rules.</sub>
 
