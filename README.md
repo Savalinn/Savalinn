@@ -4,6 +4,8 @@ Security research. Reverse engineering, forensics, cloud-native and web security
 
 Came here the long way: C++ and Python developer, ops, DevOps, architect.
 
+Site: [0xff.hu](https://0xff.hu/) · Engagements, quotes and contracts: [ITmate](https://itmate.hu/)
+
 **Focus**
 
 - reverse engineering: firmware, binaries and executables, Android apps
