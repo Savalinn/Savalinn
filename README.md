@@ -17,10 +17,12 @@ Site: [0xff.hu](https://0xff.hu/) · Engagements, quotes and contracts: [ITmate]
 
 **CTF (2026)**
 
-| CTF | Place | Top | Score |
-|---|---|---|---|
-| Huntress CTF | 27 / 1602 | 1.7% | 1885 / 1885 (100%) |
-| Hidden Investigations CTF | 45 / 1119 | 4.02% | n/a |
+| CTF | Ranking | Place | Top | Score |
+|---|---|---|---|---|
+| Huntress CTF | overall | 27 / 1602 | 1.7% | 1885 / 1885 (100%) |
+| Hidden Investigations CTF | overall | 45 / 1119 | 4.0% | n/a |
+| HKCERT CTF | international | 36 / 620 | 5.8% | n/a |
+| HKCERT CTF | all teams | 78 / 1117 | 7.0% | n/a |
 
 <sub>Played solo, with AI use permitted by the rules.</sub>
 
